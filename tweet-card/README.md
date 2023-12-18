@@ -5,3 +5,9 @@ Twitter Embed is a simple card that displays a single tweet from Twitter. It inc
 ## Reference Design
 
 [Twitter Embed – Code The Design](https://codedesign.dev/challenge/twitter-embed)
+
+## Preview
+
+https://codepen.io/awildan/pen/RwEzLWm
+
+![Image](https://github.com/awildan/code-challenges/assets/43329253/44f955b0-87af-4783-b992-883286111041)
